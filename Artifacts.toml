@@ -1,0 +1,6 @@
+[resources]
+git-tree-sha1 = "ad485f782b9d782ff4759907a04c49988fde4c26"
+
+    [[resources.download]]
+    sha256 = "3b86cd53c43819a76f976f37d9b0ae35b355f27bb50abb8fe1ed701ec787b608"
+    url = "https://gist.github.com/dylanxyz/18e1de3c7d566e2337b993944e940cfd/raw/ad485f782b9d782ff4759907a04c49988fde4c26.tar.gz"
