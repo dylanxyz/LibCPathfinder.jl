@@ -1,5 +1,5 @@
 module LibCPathfinder
 
-# Write your package code here.
+include("lib.jl"); using .LibPathfinder
 
-end
+end # module
