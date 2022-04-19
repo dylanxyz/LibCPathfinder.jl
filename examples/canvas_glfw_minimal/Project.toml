@@ -1,0 +1,4 @@
+[deps]
+GLFW = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+LibCPathfinder = "f45365bf-0e6f-46ee-a4c3-02c48bdfcff1"
+ModernGL = "66fc600b-dfda-50eb-8b99-91cfa97b1301"
