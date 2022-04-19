@@ -3,8 +3,14 @@ uuid = "f45365bf-0e6f-46ee-a4c3-02c48bdfcff1"
 authors = ["Jorge Brito <jorge.brito.xyz@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+Pathfinder_jll = "4a8d4f75-71cb-571b-9f05-006d53d41a65"
+
 [compat]
-julia = "1"
+CEnum = "0.4"
+julia = "1.6"
+Pathfinder_jll = "~0.5"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
