@@ -1,0 +1,10 @@
+[general]
+library_name = "libpathfinder"
+output_file_path = "../src/lib.jl"
+module_name = "LibPathfinder"
+jll_pkg_name = "Pathfinder_jll"
+export_symbol_prefixes = ["PF"]
+use_deterministic_symbol = true
+
+[codegen.macro]
+macro_mode = "basic"
